@@ -1,23 +1,29 @@
-"use client"
+"use client";
 import { useState, useEffect } from "react";
 import { CharacterType } from "./type";
-import TestObj from './test.json';
+import TestObj from "./test.json";
 
 const Character = () => {
   const [char_UID, setChar_UID] = useState("");
-  const [char_info, setChar_info] = useState<CharacterType>({} as CharacterType);
-  const apiKey = "test_8449b32d4ef06693600c6e7f1c7cd4dc142b45cd820ca40a71d708cedd0157e5efe8d04e6d233bd35cf2fabdeb93fb0d";
+  const [char_info, setChar_info] = useState<CharacterType>(
+    {} as CharacterType,
+  );
+  const [englishInfo, setEnglishInfo] = useState<CharacterType>(
+    {} as CharacterType,
+  );
+  const apiKey =
+    "test_8449b32d4ef06693600c6e7f1c7cd4dc142b45cd820ca40a71d708cedd0157e5efe8d04e6d233bd35cf2fabdeb93fb0d";
   const baseURL = "https://open.api.nexon.com/heroes/v2/";
   const koreanToEnglish = [
-    { "korean": "사냐", "english": "Sanya"},
-    { "korean": "힘", "english": "Strength"},
-    { "korean": "민첩", "english": "Agility"},
-    { "korean": "지능", "english": "Intelligence"},
-    { "korean": "의지", "english": "Willpower"},
-    { "korean": "최대 생명력", "english": "Max Vitality"},
+    { korean: "사냐", english: "Sanya" },
+    { korean: "힘", english: "Strength" },
+    { korean: "민첩", english: "Agility" },
+    { korean: "지능", english: "Intelligence" },
+    { korean: "의지", english: "Willpower" },
+    { korean: "최대 생명력", english: "Max Vitality" },
   ];
 
-  console.log('APIKey: ', apiKey);
+  console.log("APIKey: ", apiKey);
 
   useEffect(() => {
     async function fetchCharacterId(charcaterName: string) {
@@ -40,12 +46,14 @@ const Character = () => {
         setChar_UID(data.ocid);
         */
         // Simulating API call
-        setChar_UID('dc7017ea51c5a2b237f4e217ddbbf0b5c179867d69c59b8aea4677d24c0f9627');
+        setChar_UID(
+          "dc7017ea51c5a2b237f4e217ddbbf0b5c179867d69c59b8aea4677d24c0f9627",
+        );
       } catch (error) {
         console.error("Fetch error:", error);
       }
     }
-    fetchCharacterId('Kelly');
+    fetchCharacterId("Kelly");
   }, []); // Runs only once when component mounts
 
   useEffect(() => {
@@ -81,15 +89,16 @@ const Character = () => {
 
   useEffect(() => {
     function englishfy(info: CharacterType) {
-      let updateInfo = {...info};
+      let updateInfo = { ...info };
 
       Object.entries(info).forEach(([key, value]) => {
-        koreanToEnglish.forEach(x => {
+        koreanToEnglish.forEach((x) => {
           if (x.korean === value) {
             updateInfo[key] = x.english as any; // Update the value
           }
         });
       });
+      setEnglishInfo({ ...englishInfo, ...updateInfo });
     }
     englishfy(char_info);
   }, [char_info]); // Runs when char_info updates
@@ -97,12 +106,12 @@ const Character = () => {
   return (
     <div>
       <h1>Character Info</h1>
-      {char_info && 
+      {englishInfo && (
         <div>
-          <h3>{char_info.character_name}</h3>
-          <h5>{char_info.character_class_name}</h5>
+          <h3>{englishInfo.character_name}</h3>
+          <h5>{englishInfo.character_class_name}</h5>
         </div>
-      }
+      )}
     </div>
   );
 };

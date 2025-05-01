@@ -1,44 +1,44 @@
 {
-    "character_name": "Kelly",
-    "character_date_create": "2024-07-11T14:15:50Z",
-    "character_date_last_login": "2025-03-17T10:12:11Z",
-    "character_date_last_logout": "2025-03-17T10:15:27Z",
-    "character_class_name": "사냐",
-    "character_gender": "F",
-    "character_exp": 442597,
-    "character_level": 57,
-    "cairde_name": "Jenny",
-    "title_count": 53,
-    "id_title_count": 437,
-    "total_title_count": 490,
-    "title_stat": [
-        {
-            "stat_name": "힘",
-            "stat_value": "450"
-        },
-        {
-            "stat_name": "민첩",
-            "stat_value": "419"
-        },
-        {
-            "stat_name": "지능",
-            "stat_value": "518"
-        },
-        {
-            "stat_name": "의지",
-            "stat_value": "427"
-        },
-        {
-            "stat_name": "최대 생명력",
-            "stat_value": "160"
-        }
-    ],
-    "skill_awakening": [],
-    "dress_point": {
-        "total_point": 0,
-        "avatar_point": 0,
-        "back_point": 0,
-        "tail_point": 0,
-        "object_point": 0
+  "character_name": "Kelly",
+  "character_date_create": "2024-07-11T14:15:50Z",
+  "character_date_last_login": "2025-03-17T10:12:11Z",
+  "character_date_last_logout": "2025-03-17T10:15:27Z",
+  "character_class_name": "사냐",
+  "character_gender": "F",
+  "character_exp": 442597,
+  "character_level": 57,
+  "cairde_name": "Jenny",
+  "title_count": 53,
+  "id_title_count": 437,
+  "total_title_count": 490,
+  "title_stat": [
+    {
+      "stat_name": "힘",
+      "stat_value": "450"
+    },
+    {
+      "stat_name": "민첩",
+      "stat_value": "419"
+    },
+    {
+      "stat_name": "지능",
+      "stat_value": "518"
+    },
+    {
+      "stat_name": "의지",
+      "stat_value": "427"
+    },
+    {
+      "stat_name": "최대 생명력",
+      "stat_value": "160"
     }
+  ],
+  "skill_awakening": [],
+  "dress_point": {
+    "total_point": 0,
+    "avatar_point": 0,
+    "back_point": 0,
+    "tail_point": 0,
+    "object_point": 0
+  }
 }

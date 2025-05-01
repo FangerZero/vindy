@@ -1,17 +1,21 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from "react";
 
 // Function to fetch character data from the API
 const fetchCharacterData = async (characterName: string) => {
-  const response = await fetch(`https://open.api.nexon.com/heroes/v2/id?character_name=${characterName}`, {
-    method: 'GET',
-    headers: {
-      'accept': 'application/json',
-      'x-nxopen-api-key': 'test_8449b32d4ef06693600c6e7f1c7cd4dc142b45cd820ca40a71d708cedd0157e5efe8d04e6d233bd35cf2fabdeb93fb0d',
+  const response = await fetch(
+    `https://open.api.nexon.com/heroes/v2/id?character_name=${characterName}`,
+    {
+      method: "GET",
+      headers: {
+        accept: "application/json",
+        "x-nxopen-api-key":
+          "test_8449b32d4ef06693600c6e7f1c7cd4dc142b45cd820ca40a71d708cedd0157e5efe8d04e6d233bd35cf2fabdeb93fb0d",
+      },
     },
-  });
+  );
 
   if (!response.ok) {
-    throw new Error('Failed to fetch character data');
+    throw new Error("Failed to fetch character data");
   }
 
   return response.json();
@@ -28,7 +32,7 @@ const CharacterInfo = ({ characterName }: { characterName: string }) => {
         const result = await fetchCharacterData(characterName);
         setData(result);
       } catch (error) {
-        setError(error instanceof Error ? error.message : 'Unknown error');
+        setError(error instanceof Error ? error.message : "Unknown error");
       }
     };
 

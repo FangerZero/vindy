@@ -1,0 +1,37 @@
+{
+  "character": [
+    { "korean": "피오나", "english": "Fiona" },
+    { "korean": "리시타", "english": "Lann" },
+    { "korean": "이비", "english": "Evie" },
+    { "korean": "카록", "english": "Karok" },
+    { "korean": "벨라", "english": "Vella" },
+    { "korean": "카이", "english": "Kai" },
+    { "korean": "아리샤", "english": "Arisha" },
+    { "korean": "린", "english": "Lynn" },
+    { "korean": "허크", "english": "Hurk" },
+    { "korean": "헤기", "english": "Sylas" },
+    { "korean": "델리아", "english": "Delia" },
+    { "korean": "미리", "english": "Miri" },
+    { "korean": "그림덴", "english": "Grimden" },
+    { "korean": "미울", "english": "Eira" },
+    { "korean": "벨", "english": "Belle" },
+    { "korean": "레서", "english": "Lethor" },
+    { "korean": "카엘", "english": "Kael" },
+    { "korean": "테사", "english": "Tessa" },
+    { "korean": "단아", "english": "Danah" },
+    { "korean": "레티", "english": "Letty" },
+    { "korean": "라티야", "english": "Latiya" },
+    { "korean": "체른", "english": "Charon" },
+    { "korean": "아켈", "english": "Achel" },
+    { "korean": "소우", "english": "Sou" },
+    { "korean": "사냐", "english": "Sanyaa" },
+    { "korean": "네반", "english": "Neamhein" }
+  ],
+  "stats": [
+    { "korean": "힘", "english": "Strength" },
+    { "korean": "민첩", "english": "Agility" },
+    { "korean": "지능", "english": "Intelligence" },
+    { "korean": "의지", "english": "Willpower" },
+    { "korean": "최대 생명력", "english": "Max Vitality" }
+  ]
+}

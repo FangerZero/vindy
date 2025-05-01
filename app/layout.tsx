@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Vindy - By Woldra",
-  description: "Get information about Vindictus characters and the marketplace.",
+  description:
+    "Get information about Vindictus characters and the marketplace.",
 };
 
 export default function RootLayout({
