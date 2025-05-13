@@ -2,6 +2,7 @@
 import { useState, useEffect } from "react";
 import { CharacterType } from "./type";
 import TestObj from "./test.json";
+import koreanToEnglish from "./k2e.json";
 
 const Character = () => {
   const [char_UID, setChar_UID] = useState("");
@@ -14,14 +15,6 @@ const Character = () => {
   const apiKey =
     "test_8449b32d4ef06693600c6e7f1c7cd4dc142b45cd820ca40a71d708cedd0157e5efe8d04e6d233bd35cf2fabdeb93fb0d";
   const baseURL = "https://open.api.nexon.com/heroes/v2/";
-  const koreanToEnglish = [
-    { korean: "사냐", english: "Sanya" },
-    { korean: "힘", english: "Strength" },
-    { korean: "민첩", english: "Agility" },
-    { korean: "지능", english: "Intelligence" },
-    { korean: "의지", english: "Willpower" },
-    { korean: "최대 생명력", english: "Max Vitality" },
-  ];
 
   console.log("APIKey: ", apiKey);
 
@@ -95,6 +88,7 @@ const Character = () => {
         koreanToEnglish.forEach((x) => {
           if (x.korean === value) {
             updateInfo[key] = x.english as any; // Update the value
+            // return true; // Break out of inner loop
           }
         });
       });
@@ -110,6 +104,9 @@ const Character = () => {
         <div>
           <h3>{englishInfo.character_name}</h3>
           <h5>{englishInfo.character_class_name}</h5>
+          <h5>
+            {console.log("englishInfo.title_stat: ", englishInfo.title_stat)}
+          </h5>
         </div>
       )}
     </div>
