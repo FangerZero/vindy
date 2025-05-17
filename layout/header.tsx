@@ -10,9 +10,6 @@ const pages = ["Character", "Marketplace", "Misc"];
 
 function ResponsiveAppBar() {
   const router = useRouter();
-  const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(
-    null,
-  );
 
   return (
     <>
@@ -21,7 +18,9 @@ function ResponsiveAppBar() {
       </a>
 
       {pages.map((page) => (
-        <Link href={`/${page.toLowerCase()}`}>{page}</Link>
+        <Link class="" href={`/${page.toLowerCase()}`}>
+          {page}
+        </Link>
       ))}
     </>
   );
