@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import Header from "@/component/header";
+import bgImage from "../public/images/bg_page_media.jpg";
+import Header from "@/layout/header";
 import Footer from "@/layout/footer";
 import "./globals.css";
 
@@ -27,11 +28,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={` antialiased`}>
+      <body className={`antialiased flex flex-col h-screen`}>
         <Header />
-        {children}
+        <main className="mb-auto mx-16 my-8">{children}</main>
+
+        <Footer />
       </body>
-      <Footer />
     </html>
   );
 }
