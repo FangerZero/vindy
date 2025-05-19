@@ -2,14 +2,14 @@
 import { useState, useEffect } from "react";
 import { CharacterType } from "./type";
 import TestObj from "./test.json";
-import koreanToEnglish from "./k2e.json";
+import characterClassK2E from "./k2e_characterClass.json";
+import statNamesK2E from "./k2e_statName.json";
+import Controller from "../../public/images/controller.svg";
+import Image from "next/image";
 
 const Character = () => {
   const [char_UID, setChar_UID] = useState("");
   const [char_info, setChar_info] = useState<CharacterType>(
-    {} as CharacterType,
-  );
-  const [englishInfo, setEnglishInfo] = useState<CharacterType>(
     {} as CharacterType,
   );
   const apiKey =
@@ -80,36 +80,86 @@ const Character = () => {
     fetchCharacterBasic(char_UID);
   }, [char_UID]); // Runs when char_UID updates
 
-  useEffect(() => {
-    function englishfy(info: CharacterType) {
-      let updateInfo = { ...info };
+  const getEnglishClassName = (characterClassName: string) => {
+    return (
+      characterClassK2E.find(({ korean }) => korean === characterClassName)
+        ?.english || characterClassName
+    );
+  };
 
-      Object.entries(info).forEach(([key, value]) => {
-        koreanToEnglish.forEach((x) => {
-          if (x.korean === value) {
-            updateInfo[key] = x.english as any; // Update the value
-            // return true; // Break out of inner loop
-          }
-        });
-      });
-      setEnglishInfo({ ...englishInfo, ...updateInfo });
-    }
-    englishfy(char_info);
-  }, [char_info]); // Runs when char_info updates
+  const getEnglishStatName = (statName: string) => {
+    return statNamesK2E.find(({ korean }) => korean === statName)?.english;
+  };
+
+  const isValidDate = (input: Date) => {
+    const date = new Date(input);
+    return !isNaN(date.getTime());
+  };
+
+  const getFormattedDate = (dateToFormat: Date) => {
+    if (!dateToFormat && !isValidDate(dateToFormat)) return "";
+    const months = [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+    ];
+    const dateObj = new Date(JSON.parse(JSON.stringify(dateToFormat)));
+    return `${months[dateObj.getMonth()]} ${dateObj.getDate()}, ${dateObj.getFullYear()}`;
+  };
+
+  if (!char_info) {
+    return (
+      <>
+        <input
+          type="search"
+          placeholder="Character Name"
+          className="w-50 bg-transparent placeholder:text-slate-400 text-slate-700 text-sm border border-slate-200 rounded-md px-3 py-2 transition duration-300 ease focus:outline-none focus:border-slate-400 hover:border-slate-300 shadow-sm focus:shadow"
+        />
+        <div className="p-4">No Character Information</div>
+      </>
+    );
+  }
 
   return (
-    <div>
-      <h1>Character Info</h1>
-      {englishInfo && (
-        <div>
-          <h3>{englishInfo.character_name}</h3>
-          <h5>{englishInfo.character_class_name}</h5>
-          <h5>
-            {console.log("englishInfo.title_stat: ", englishInfo.title_stat)}
-          </h5>
+    <>
+      <input
+        type="search"
+        placeholder="Character Name"
+        className="w-50 bg-transparent placeholder:text-slate-400 text-slate-700 text-sm border border-slate-200 rounded-md px-3 py-2 transition duration-300 ease focus:outline-none focus:border-slate-400 hover:border-slate-300 shadow-sm focus:shadow"
+      />
+
+      <div className="p-4">
+        <div className="flex text-xl font-bold my-2  fill-green-500">
+          <Image
+            className="mr-2 fill-blue-500"
+            color="Blue"
+            src={Controller}
+            alt="My SVG"
+            width={25}
+            height={25}
+          />
+          {`${char_info.character_name} - ${getEnglishClassName(char_info.character_class_name)} - Lv ${char_info.character_level}`}
         </div>
-      )}
-    </div>
+        <div>Carde: {char_info.cairde_name}</div>
+        <div>Creation: {getFormattedDate(char_info.character_date_create)}</div>
+        <div className="border p-2 px-4 my-2 rounded w-fit">
+          {char_info?.title_stat?.map((stat) => (
+            <div>
+              {getEnglishStatName(stat.stat_name)}: {stat.stat_value}
+            </div>
+          ))}
+        </div>
+      </div>
+    </>
   );
 };
 
