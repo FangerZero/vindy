@@ -4,10 +4,12 @@ import { CharacterType } from "./type";
 import TestObj from "./test.json";
 import characterClassK2E from "./k2e_characterClass.json";
 import statNamesK2E from "./k2e_statName.json";
-import Controller from "../../public/images/controller.svg";
+// import Controller from "../../public";
 import Image from "next/image";
 
 const Character = () => {
+  const [playerStatus, setPlayerStatus] = useState(false);
+  const [charName, setCharName] = useState("");
   const [char_UID, setChar_UID] = useState("");
   const [char_info, setChar_info] = useState<CharacterType>(
     {} as CharacterType,
@@ -16,67 +18,70 @@ const Character = () => {
     "test_8449b32d4ef06693600c6e7f1c7cd4dc142b45cd820ca40a71d708cedd0157e5efe8d04e6d233bd35cf2fabdeb93fb0d";
   const baseURL = "https://open.api.nexon.com/heroes/v2/";
 
-  console.log("APIKey: ", apiKey);
+  async function fetchCharacterId(charcaterName: string) {
+    try {
+      const response = await fetch(
+        `${baseURL}id?character_name=${charcaterName}`,
+        {
+          method: "GET",
+          headers: {
+            "x-nxopen-api-key": apiKey,
+            "Content-Type": "application/json",
+          },
+        },
+      );
+
+      if (!response.ok) {
+        throw new Error(`Error: ${response.status} ${response.statusText}`);
+      }
+
+      const data = await response.json();
+      setChar_UID(data.ocid);
+    } catch (error) {
+      console.error("Fetch error:", error);
+    }
+  }
+
+  // When Char Name Updates
+  useEffect(() => {
+    if (charName !== "") {
+      fetchCharacterId(charName);
+      // Simulation
+      // setChar_info(TestObj);
+    }
+  }, [charName]); // Runs only once when component mounts
+
+  async function fetchCharacterBasic(ocid: string) {
+    if (!ocid) return;
+    try {
+      const response = await fetch(`${baseURL}character/basic?ocid=${ocid}`, {
+        method: "GET",
+        headers: {
+          "x-nxopen-api-key": apiKey,
+          "Content-Type": "application/json",
+        },
+      });
+
+      if (!response.ok) {
+        throw new Error(`Error: ${response.status} ${response.statusText}`);
+      }
+
+      const data = await response.json();
+      setChar_info(data);
+
+      setPlayerStatus(
+        char_info.character_date_last_logout <
+          char_info.character_date_last_login,
+      );
+
+      // Simulating API call
+      // setChar_info(TestObj);
+    } catch (error) {
+      console.error("Fetch error:", error);
+    }
+  }
 
   useEffect(() => {
-    async function fetchCharacterId(charcaterName: string) {
-      console.log(`URL: ${baseURL}id?character_name=${charcaterName}`);
-      try {
-        /*
-        const response = await fetch(`${baseURL}id?character_name=${charcaterName}`, {
-            method: "GET",
-            headers: {
-                "x-nxopen-api-key": apiKey,
-                "Content-Type": "application/json"
-            }
-        });
-
-        if (!response.ok) {
-            throw new Error(`Error: ${response.status} ${response.statusText}`);
-        }
-
-        const data = await response.json();
-        setChar_UID(data.ocid);
-        */
-        // Simulating API call
-        setChar_UID(
-          "dc7017ea51c5a2b237f4e217ddbbf0b5c179867d69c59b8aea4677d24c0f9627",
-        );
-      } catch (error) {
-        console.error("Fetch error:", error);
-      }
-    }
-    fetchCharacterId("Kelly");
-  }, []); // Runs only once when component mounts
-
-  useEffect(() => {
-    async function fetchCharacterBasic(ocid: string) {
-      if (!ocid) return;
-      console.log(`URL: ${baseURL}character/basic?ocid=${ocid}`);
-      try {
-        /*
-          const response = await fetch(`${baseURL}character/basic?ocid=${ocid}`, {
-              method: "GET",
-              headers: {
-                  "x-nxopen-api-key": apiKey,
-                  "Content-Type": "application/json"
-              }
-          });
-  
-          if (!response.ok) {
-              throw new Error(`Error: ${response.status} ${response.statusText}`);
-          }
-  
-          const data = await response.json();
-          console.log('basic Data: ', data);
-          setChar_info(data);
-          */
-        // Simulating API call
-        setChar_info(TestObj);
-      } catch (error) {
-        console.error("Fetch error:", error);
-      }
-    }
     fetchCharacterBasic(char_UID);
   }, [char_UID]); // Runs when char_UID updates
 
@@ -116,13 +121,21 @@ const Character = () => {
     return `${months[dateObj.getMonth()]} ${dateObj.getDate()}, ${dateObj.getFullYear()}`;
   };
 
-  if (!char_info) {
+  const handleKeyPress = (event: any) => {
+    if (event.key === "Enter" && event.target.value !== "") {
+      setCharName(event.target.value);
+    }
+  };
+
+  if (Object.keys(char_info).length === 0) {
     return (
       <>
         <input
+          onKeyDown={(e) => handleKeyPress(e)}
           type="search"
           placeholder="Character Name"
           className="w-50 bg-transparent placeholder:text-slate-400 text-slate-700 text-sm border border-slate-200 rounded-md px-3 py-2 transition duration-300 ease focus:outline-none focus:border-slate-400 hover:border-slate-300 shadow-sm focus:shadow"
+          onBlur={(e) => setCharName(e.target.value)}
         />
         <div className="p-4">No Character Information</div>
       </>
@@ -132,20 +145,29 @@ const Character = () => {
   return (
     <>
       <input
+        onKeyDown={(e) => handleKeyPress(e)}
         type="search"
         placeholder="Character Name"
         className="w-50 bg-transparent placeholder:text-slate-400 text-slate-700 text-sm border border-slate-200 rounded-md px-3 py-2 transition duration-300 ease focus:outline-none focus:border-slate-400 hover:border-slate-300 shadow-sm focus:shadow"
+        onBlur={(e) => setCharName(e.target.value)}
       />
-
       <div className="p-4">
-        <div className="flex text-xl font-bold my-2  fill-green-500">
+        <div className="flex text-xl font-bold my-2">
           <Image
-            className="mr-2 fill-blue-500"
-            color="Blue"
-            src={Controller}
-            alt="My SVG"
-            width={25}
-            height={25}
+            className="mr-2 text-slate-400"
+            src={
+              playerStatus
+                ? "/images/controller_green.svg"
+                : "/images/controller_red.svg"
+            }
+            alt={
+              playerStatus
+                ? "Green Controller - Player Online"
+                : "Red Controller - Player Offline"
+            }
+            title={playerStatus ? "Player Online" : "Player Offline"}
+            width={24}
+            height={24}
           />
           {`${char_info.character_name} - ${getEnglishClassName(char_info.character_class_name)} - Lv ${char_info.character_level}`}
         </div>

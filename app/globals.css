@@ -5,6 +5,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --my-controller-color: #ab0101;
 }
 
 @media (prefers-color-scheme: dark) {

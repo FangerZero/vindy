@@ -1,0 +1,5005 @@
+{
+  "item": [
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 39968403,
+      "min_price": 38000000,
+      "max_price": 44200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25211638,
+      "min_price": 23212635,
+      "max_price": 28500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "꿰뚫는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36713205,
+      "min_price": 36000000,
+      "max_price": 37423642,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16380426,
+      "min_price": 15000000,
+      "max_price": 17479999,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 15153484,
+      "min_price": 14000000,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 15904077,
+      "min_price": 14500000,
+      "max_price": 16861599,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30296268,
+      "min_price": 29000000,
+      "max_price": 31600000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 81037,
+      "min_price": 18,
+      "max_price": 130000,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 9610077,
+      "min_price": 8900000,
+      "max_price": 10800000,
+      "item_option": {
+        "suffix_enchant_preset_1": "광분"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20596233,
+      "min_price": 19500000,
+      "max_price": 21376683,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 38437,
+      "min_price": 1624,
+      "max_price": 55199,
+      "item_option": {
+        "prefix_enchant_preset_1": "결연한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1814497,
+      "min_price": 1400000,
+      "max_price": 2523506,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10713462,
+      "min_price": 9111111,
+      "max_price": 11350000,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11907614,
+      "min_price": 10000000,
+      "max_price": 13369470,
+      "item_option": {
+        "prefix_enchant_preset_1": "승자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 39966,
+      "min_price": 1234,
+      "max_price": 150000,
+      "item_option": {
+        "suffix_enchant_preset_1": "폭렬"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1964301,
+      "min_price": 1780000,
+      "max_price": 2111111,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 90003902,
+      "min_price": 87500000,
+      "max_price": 92000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "신비"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 349314,
+      "min_price": 280000,
+      "max_price": 449938,
+      "item_option": {
+        "prefix_enchant_preset_1": "고결한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 484916,
+      "min_price": 450000,
+      "max_price": 500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "용맹"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2112438,
+      "min_price": 1800000,
+      "max_price": 2237020,
+      "item_option": {
+        "prefix_enchant_preset_1": "뜻깊은"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 425784,
+      "min_price": 290000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 314118,
+      "min_price": 250000,
+      "max_price": 350000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1053561,
+      "min_price": 641284,
+      "max_price": 1981284,
+      "item_option": {
+        "suffix_enchant_preset_1": "영혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10850,
+      "min_price": 5000,
+      "max_price": 12393,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1208735,
+      "min_price": 888888,
+      "max_price": 1900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "죽은자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T05:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1072966,
+      "min_price": 998989,
+      "max_price": 1135966,
+      "item_option": {
+        "prefix_enchant_preset_1": "비통한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 40029781,
+      "min_price": 38000000,
+      "max_price": 44200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16516727,
+      "min_price": 15670332,
+      "max_price": 17400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "찬미"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36665658,
+      "min_price": 36000000,
+      "max_price": 37423642,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16413056,
+      "min_price": 15000000,
+      "max_price": 17479999,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 772341,
+      "min_price": 600000,
+      "max_price": 891375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16163470,
+      "min_price": 14500000,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30273854,
+      "min_price": 29000000,
+      "max_price": 31200000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 65421,
+      "min_price": 18,
+      "max_price": 130000,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 18307185,
+      "min_price": 16800000,
+      "max_price": 21827506,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4288761,
+      "min_price": 3850000,
+      "max_price": 6800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20565900,
+      "min_price": 19500000,
+      "max_price": 21376683,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10123723,
+      "min_price": 9000000,
+      "max_price": 12742663,
+      "item_option": {
+        "prefix_enchant_preset_1": "우아한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10719387,
+      "min_price": 9111111,
+      "max_price": 11350000,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11835793,
+      "min_price": 10000000,
+      "max_price": 13369470,
+      "item_option": {
+        "prefix_enchant_preset_1": "승자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1962281,
+      "min_price": 1500000,
+      "max_price": 2200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 90003493,
+      "min_price": 87500000,
+      "max_price": 92000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "신비"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 7737866,
+      "min_price": 7000000,
+      "max_price": 8258264,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1397,
+      "min_price": 1310,
+      "max_price": 1410,
+      "item_option": {
+        "prefix_enchant_preset_1": "호기심 많은"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1418679,
+      "min_price": 965597,
+      "max_price": 1900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잔혹한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 485105,
+      "min_price": 450000,
+      "max_price": 500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "용맹"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2493185,
+      "min_price": 2200000,
+      "max_price": 2569556,
+      "item_option": {
+        "suffix_enchant_preset_1": "소망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 647489,
+      "min_price": 89000,
+      "max_price": 1400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "진실"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 436104,
+      "min_price": 290000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 460743,
+      "min_price": 239000,
+      "max_price": 790000,
+      "item_option": {
+        "prefix_enchant_preset_1": "봉인된"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11232,
+      "min_price": 5000,
+      "max_price": 18651,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1090176,
+      "min_price": 888888,
+      "max_price": 1266703,
+      "item_option": {
+        "prefix_enchant_preset_1": "죽은자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T06:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 424051,
+      "min_price": 123456,
+      "max_price": 700000,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 24994539,
+      "min_price": 23212635,
+      "max_price": 28500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "꿰뚫는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36624054,
+      "min_price": 36000000,
+      "max_price": 37423642,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16601900,
+      "min_price": 15670332,
+      "max_price": 17400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "찬미"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 15169723,
+      "min_price": 14000000,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 713006,
+      "min_price": 472341,
+      "max_price": 891375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 63095,
+      "min_price": 18,
+      "max_price": 130000,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6718522,
+      "min_price": 6200000,
+      "max_price": 7200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잦아든"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4209829,
+      "min_price": 3850000,
+      "max_price": 6800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20596301,
+      "min_price": 19500000,
+      "max_price": 21400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10256351,
+      "min_price": 9000000,
+      "max_price": 12742663,
+      "item_option": {
+        "prefix_enchant_preset_1": "우아한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10814855,
+      "min_price": 9111111,
+      "max_price": 12000000,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11826318,
+      "min_price": 10000000,
+      "max_price": 13369470,
+      "item_option": {
+        "prefix_enchant_preset_1": "승자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1968928,
+      "min_price": 1500000,
+      "max_price": 2274673,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 7792968,
+      "min_price": 7000000,
+      "max_price": 8700000,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 43414,
+      "min_price": 7048,
+      "max_price": 151606,
+      "item_option": {
+        "prefix_enchant_preset_1": "차분한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 185394,
+      "min_price": 150000,
+      "max_price": 197335,
+      "item_option": {
+        "prefix_enchant_preset_1": "혼돈의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2494158,
+      "min_price": 2200000,
+      "max_price": 2569556,
+      "item_option": {
+        "suffix_enchant_preset_1": "소망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1990319,
+      "min_price": 1500000,
+      "max_price": 2237020,
+      "item_option": {
+        "prefix_enchant_preset_1": "뜻깊은"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 7761,
+      "min_price": 5000,
+      "max_price": 19787,
+      "item_option": {
+        "prefix_enchant_preset_1": "균형 잡힌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 441982,
+      "min_price": 290000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 347296,
+      "min_price": 290000,
+      "max_price": 748990,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 460102,
+      "min_price": 390000,
+      "max_price": 520000,
+      "item_option": {
+        "prefix_enchant_preset_1": "냉철의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1618,
+      "min_price": 900,
+      "max_price": 2798,
+      "item_option": {
+        "suffix_enchant_preset_1": "마음"
+      }
+    },
+    {
+      "date_update": "2025-05-10T07:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 401778,
+      "min_price": 112233,
+      "max_price": 700000,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 24994880,
+      "min_price": 23212635,
+      "max_price": 28500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "꿰뚫는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36591327,
+      "min_price": 36000000,
+      "max_price": 37423642,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16432403,
+      "min_price": 15000000,
+      "max_price": 17479999,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8250818,
+      "min_price": 7999999,
+      "max_price": 9180824,
+      "item_option": {
+        "prefix_enchant_preset_1": "굳어버린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 15199734,
+      "min_price": 14000000,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 724203,
+      "min_price": 472341,
+      "max_price": 891375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16235715,
+      "min_price": 14500000,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30246382,
+      "min_price": 29000000,
+      "max_price": 31200000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 18551471,
+      "min_price": 16800000,
+      "max_price": 25000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6738627,
+      "min_price": 6200000,
+      "max_price": 7200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잦아든"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4149145,
+      "min_price": 3357000,
+      "max_price": 6800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20589402,
+      "min_price": 19500000,
+      "max_price": 21521433,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10357376,
+      "min_price": 9000000,
+      "max_price": 12742663,
+      "item_option": {
+        "prefix_enchant_preset_1": "우아한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1677137,
+      "min_price": 1200000,
+      "max_price": 2523506,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11033102,
+      "min_price": 9111111,
+      "max_price": 13706200,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6325791,
+      "min_price": 5575718,
+      "max_price": 6621217,
+      "item_option": {
+        "prefix_enchant_preset_1": "복수의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11824564,
+      "min_price": 10000000,
+      "max_price": 13369470,
+      "item_option": {
+        "prefix_enchant_preset_1": "승자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 90269721,
+      "min_price": 87500000,
+      "max_price": 92000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "신비"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 39633,
+      "min_price": 1818,
+      "max_price": 151606,
+      "item_option": {
+        "prefix_enchant_preset_1": "차분한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 178727,
+      "min_price": 105394,
+      "max_price": 197335,
+      "item_option": {
+        "prefix_enchant_preset_1": "혼돈의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1986421,
+      "min_price": 1500000,
+      "max_price": 2237020,
+      "item_option": {
+        "prefix_enchant_preset_1": "뜻깊은"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 478182,
+      "min_price": 290000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 390358,
+      "min_price": 290000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1018672,
+      "min_price": 600000,
+      "max_price": 1981284,
+      "item_option": {
+        "suffix_enchant_preset_1": "영혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1801,
+      "min_price": 900,
+      "max_price": 3116,
+      "item_option": {
+        "suffix_enchant_preset_1": "마음"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16249,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1044819,
+      "min_price": 700000,
+      "max_price": 1266703,
+      "item_option": {
+        "prefix_enchant_preset_1": "죽은자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T08:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 400326,
+      "min_price": 112233,
+      "max_price": 700000,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 40020511,
+      "min_price": 38000000,
+      "max_price": 44200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25062818,
+      "min_price": 23212635,
+      "max_price": 28500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "꿰뚫는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16449432,
+      "min_price": 15000000,
+      "max_price": 17479999,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8213988,
+      "min_price": 7500000,
+      "max_price": 9180824,
+      "item_option": {
+        "prefix_enchant_preset_1": "굳어버린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16216846,
+      "min_price": 14500000,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30267021,
+      "min_price": 29000000,
+      "max_price": 31200000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 60899,
+      "min_price": 18,
+      "max_price": 130000,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 18730597,
+      "min_price": 16800000,
+      "max_price": 25000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4151648,
+      "min_price": 3357000,
+      "max_price": 6800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20574792,
+      "min_price": 19500000,
+      "max_price": 21521433,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1668577,
+      "min_price": 1200000,
+      "max_price": 2523506,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6274779,
+      "min_price": 5575718,
+      "max_price": 6621217,
+      "item_option": {
+        "prefix_enchant_preset_1": "복수의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11839321,
+      "min_price": 10000000,
+      "max_price": 13369470,
+      "item_option": {
+        "prefix_enchant_preset_1": "승자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 29796,
+      "min_price": 1,
+      "max_price": 100000,
+      "item_option": {
+        "suffix_enchant_preset_1": "질주"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 38964,
+      "min_price": 1234,
+      "max_price": 150000,
+      "item_option": {
+        "suffix_enchant_preset_1": "폭렬"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1991636,
+      "min_price": 1500000,
+      "max_price": 2274673,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 7799247,
+      "min_price": 7000000,
+      "max_price": 8700000,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2527881,
+      "min_price": 2200000,
+      "max_price": 3000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "소망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 493528,
+      "min_price": 300000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 406075,
+      "min_price": 290000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 988767,
+      "min_price": 600000,
+      "max_price": 1981284,
+      "item_option": {
+        "suffix_enchant_preset_1": "영혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16652,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1028638,
+      "min_price": 700000,
+      "max_price": 1266703,
+      "item_option": {
+        "prefix_enchant_preset_1": "죽은자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T09:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 376749,
+      "min_price": 112233,
+      "max_price": 700000,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 39937733,
+      "min_price": 38000000,
+      "max_price": 44200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25059242,
+      "min_price": 23212635,
+      "max_price": 28500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "꿰뚫는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36535839,
+      "min_price": 36000000,
+      "max_price": 37023642,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16411510,
+      "min_price": 15670332,
+      "max_price": 16949999,
+      "item_option": {
+        "suffix_enchant_preset_1": "찬미"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16617793,
+      "min_price": 15500000,
+      "max_price": 17479999,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 15282158,
+      "min_price": 14000000,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16260178,
+      "min_price": 14500000,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30303103,
+      "min_price": 29000000,
+      "max_price": 31000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 53877,
+      "min_price": 1,
+      "max_price": 129619,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 18767345,
+      "min_price": 16800000,
+      "max_price": 25000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4131939,
+      "min_price": 3357000,
+      "max_price": 6800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20535896,
+      "min_price": 19500000,
+      "max_price": 21521433,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 37890,
+      "min_price": 1624,
+      "max_price": 55199,
+      "item_option": {
+        "prefix_enchant_preset_1": "결연한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10528737,
+      "min_price": 9000000,
+      "max_price": 12742663,
+      "item_option": {
+        "prefix_enchant_preset_1": "우아한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11059392,
+      "min_price": 9111111,
+      "max_price": 13706200,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11513499,
+      "min_price": 10000000,
+      "max_price": 12000000,
+      "item_option": {
+        "prefix_enchant_preset_1": "승자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 41635,
+      "min_price": 1234,
+      "max_price": 150000,
+      "item_option": {
+        "suffix_enchant_preset_1": "폭렬"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1995420,
+      "min_price": 1500000,
+      "max_price": 2274673,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 90179166,
+      "min_price": 87500000,
+      "max_price": 92000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "신비"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 7827154,
+      "min_price": 7000000,
+      "max_price": 8700000,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1356,
+      "min_price": 900,
+      "max_price": 1410,
+      "item_option": {
+        "prefix_enchant_preset_1": "호기심 많은"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 170338,
+      "min_price": 105394,
+      "max_price": 197335,
+      "item_option": {
+        "prefix_enchant_preset_1": "혼돈의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2521828,
+      "min_price": 2200000,
+      "max_price": 3000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "소망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1976242,
+      "min_price": 1500000,
+      "max_price": 2237020,
+      "item_option": {
+        "prefix_enchant_preset_1": "뜻깊은"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1101902,
+      "min_price": 900000,
+      "max_price": 1306341,
+      "item_option": {
+        "suffix_enchant_preset_1": "결계"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 413215,
+      "min_price": 290000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 514905,
+      "min_price": 300000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 441993,
+      "min_price": 239000,
+      "max_price": 790000,
+      "item_option": {
+        "prefix_enchant_preset_1": "봉인된"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 19623,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 976069,
+      "min_price": 700000,
+      "max_price": 1266703,
+      "item_option": {
+        "prefix_enchant_preset_1": "죽은자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T10:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1058021,
+      "min_price": 990000,
+      "max_price": 1135966,
+      "item_option": {
+        "prefix_enchant_preset_1": "비통한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36512504,
+      "min_price": 36000000,
+      "max_price": 37023642,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16427376,
+      "min_price": 15670332,
+      "max_price": 16949999,
+      "item_option": {
+        "suffix_enchant_preset_1": "찬미"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16540168,
+      "min_price": 15500000,
+      "max_price": 17479999,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8144928,
+      "min_price": 7500000,
+      "max_price": 8700000,
+      "item_option": {
+        "prefix_enchant_preset_1": "굳어버린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 15583002,
+      "min_price": 14000000,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 696237,
+      "min_price": 472341,
+      "max_price": 891375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16416897,
+      "min_price": 15800000,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30351297,
+      "min_price": 29000000,
+      "max_price": 31000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 51377,
+      "min_price": 1,
+      "max_price": 129619,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 19089936,
+      "min_price": 16800000,
+      "max_price": 25000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 9903384,
+      "min_price": 9000000,
+      "max_price": 10800000,
+      "item_option": {
+        "suffix_enchant_preset_1": "광분"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4126823,
+      "min_price": 3357000,
+      "max_price": 6800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20528788,
+      "min_price": 19500000,
+      "max_price": 21521433,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30432,
+      "min_price": 1234,
+      "max_price": 55199,
+      "item_option": {
+        "prefix_enchant_preset_1": "결연한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1648577,
+      "min_price": 1200000,
+      "max_price": 2523506,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11056261,
+      "min_price": 9111111,
+      "max_price": 13706200,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 27252,
+      "min_price": 1,
+      "max_price": 100000,
+      "item_option": {
+        "suffix_enchant_preset_1": "질주"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 39788,
+      "min_price": 1234,
+      "max_price": 150000,
+      "item_option": {
+        "suffix_enchant_preset_1": "폭렬"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2051435,
+      "min_price": 1500000,
+      "max_price": 2999999,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 90169212,
+      "min_price": 87500000,
+      "max_price": 92000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "신비"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 7834943,
+      "min_price": 7000000,
+      "max_price": 8700000,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 40596,
+      "min_price": 1818,
+      "max_price": 151606,
+      "item_option": {
+        "prefix_enchant_preset_1": "차분한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2511039,
+      "min_price": 2200000,
+      "max_price": 3000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "소망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 699365,
+      "min_price": 89000,
+      "max_price": 1400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "진실"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 98401,
+      "min_price": 75000,
+      "max_price": 123637,
+      "item_option": {
+        "prefix_enchant_preset_1": "무한의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1963088,
+      "min_price": 1500000,
+      "max_price": 2237020,
+      "item_option": {
+        "prefix_enchant_preset_1": "뜻깊은"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 535047,
+      "min_price": 300000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 121922,
+      "min_price": 65000,
+      "max_price": 350000,
+      "item_option": {
+        "prefix_enchant_preset_1": "흐느끼는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 85069,
+      "min_price": 50000,
+      "max_price": 120000,
+      "item_option": {
+        "prefix_enchant_preset_1": "냉정의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1082394,
+      "min_price": 900000,
+      "max_price": 1300000,
+      "item_option": {
+        "suffix_enchant_preset_1": "결계"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 435173,
+      "min_price": 290000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 897883,
+      "min_price": 600000,
+      "max_price": 1981284,
+      "item_option": {
+        "suffix_enchant_preset_1": "영혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 471411,
+      "min_price": 239000,
+      "max_price": 800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "봉인된"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 202479,
+      "min_price": 100000,
+      "max_price": 242874,
+      "item_option": {
+        "suffix_enchant_preset_1": "포획"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 22178,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 378839,
+      "min_price": 112233,
+      "max_price": 700000,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 951436,
+      "min_price": 700000,
+      "max_price": 1266703,
+      "item_option": {
+        "prefix_enchant_preset_1": "죽은자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T11:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1048229,
+      "min_price": 949999,
+      "max_price": 1135966,
+      "item_option": {
+        "prefix_enchant_preset_1": "비통한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 39193982,
+      "min_price": 32000000,
+      "max_price": 44200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36535718,
+      "min_price": 36000000,
+      "max_price": 37023642,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16463731,
+      "min_price": 15670332,
+      "max_price": 16949999,
+      "item_option": {
+        "suffix_enchant_preset_1": "찬미"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16554603,
+      "min_price": 15500000,
+      "max_price": 17479999,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 15737849,
+      "min_price": 14000000,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 681782,
+      "min_price": 472341,
+      "max_price": 891375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16407322,
+      "min_price": 15800000,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30406482,
+      "min_price": 29000000,
+      "max_price": 31500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 19352642,
+      "min_price": 16800000,
+      "max_price": 25000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 50886,
+      "min_price": 1,
+      "max_price": 129619,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6729900,
+      "min_price": 6200000,
+      "max_price": 7200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잦아든"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4115913,
+      "min_price": 3357000,
+      "max_price": 6800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20574667,
+      "min_price": 19600000,
+      "max_price": 21521433,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30789,
+      "min_price": 1234,
+      "max_price": 55199,
+      "item_option": {
+        "prefix_enchant_preset_1": "결연한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10617789,
+      "min_price": 9500000,
+      "max_price": 12000000,
+      "item_option": {
+        "prefix_enchant_preset_1": "우아한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1640005,
+      "min_price": 1200000,
+      "max_price": 2523506,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11420010,
+      "min_price": 9111111,
+      "max_price": 17500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 33433,
+      "min_price": 1234,
+      "max_price": 150000,
+      "item_option": {
+        "suffix_enchant_preset_1": "폭렬"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 90102291,
+      "min_price": 87500000,
+      "max_price": 92000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "신비"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 7816761,
+      "min_price": 7000000,
+      "max_price": 8700000,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 483616,
+      "min_price": 450000,
+      "max_price": 492476,
+      "item_option": {
+        "suffix_enchant_preset_1": "용맹"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 167481,
+      "min_price": 105394,
+      "max_price": 197335,
+      "item_option": {
+        "prefix_enchant_preset_1": "혼돈의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2555751,
+      "min_price": 2200000,
+      "max_price": 3000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "소망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 745568,
+      "min_price": 89000,
+      "max_price": 1400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "진실"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1967816,
+      "min_price": 1500000,
+      "max_price": 2237020,
+      "item_option": {
+        "prefix_enchant_preset_1": "뜻깊은"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8745,
+      "min_price": 5000,
+      "max_price": 19787,
+      "item_option": {
+        "prefix_enchant_preset_1": "균형 잡힌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 544117,
+      "min_price": 300000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 439178,
+      "min_price": 298000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25779,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 941775,
+      "min_price": 700000,
+      "max_price": 1266703,
+      "item_option": {
+        "prefix_enchant_preset_1": "죽은자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1045318,
+      "min_price": 949999,
+      "max_price": 1135966,
+      "item_option": {
+        "prefix_enchant_preset_1": "비통한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T12:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 379665,
+      "min_price": 112233,
+      "max_price": 700000,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 38114695,
+      "min_price": 32000000,
+      "max_price": 44200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25256765,
+      "min_price": 23212635,
+      "max_price": 28500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "꿰뚫는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36512504,
+      "min_price": 36000000,
+      "max_price": 37023642,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16460709,
+      "min_price": 15670332,
+      "max_price": 16949999,
+      "item_option": {
+        "suffix_enchant_preset_1": "찬미"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8158261,
+      "min_price": 7500000,
+      "max_price": 8700000,
+      "item_option": {
+        "prefix_enchant_preset_1": "굳어버린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 15911252,
+      "min_price": 14000000,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 689161,
+      "min_price": 472341,
+      "max_price": 891375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16399223,
+      "min_price": 15707322,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30477705,
+      "min_price": 29900000,
+      "max_price": 31500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 42099,
+      "min_price": 1,
+      "max_price": 129619,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 19684755,
+      "min_price": 16800000,
+      "max_price": 25000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10092273,
+      "min_price": 9500000,
+      "max_price": 10888888,
+      "item_option": {
+        "suffix_enchant_preset_1": "광분"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6707134,
+      "min_price": 6200000,
+      "max_price": 7200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잦아든"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4003922,
+      "min_price": 3357000,
+      "max_price": 4200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20587139,
+      "min_price": 19600000,
+      "max_price": 21999996,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 32336,
+      "min_price": 1234,
+      "max_price": 55199,
+      "item_option": {
+        "prefix_enchant_preset_1": "결연한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10492134,
+      "min_price": 9500000,
+      "max_price": 11800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "우아한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1561803,
+      "min_price": 1200000,
+      "max_price": 2523506,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11488834,
+      "min_price": 9111111,
+      "max_price": 17500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11476076,
+      "min_price": 10000000,
+      "max_price": 12000000,
+      "item_option": {
+        "prefix_enchant_preset_1": "승자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10220,
+      "min_price": 1234,
+      "max_price": 50000,
+      "item_option": {
+        "suffix_enchant_preset_1": "폭렬"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16453,
+      "min_price": 1,
+      "max_price": 100000,
+      "item_option": {
+        "suffix_enchant_preset_1": "질주"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2068762,
+      "min_price": 1500000,
+      "max_price": 2999999,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 90002412,
+      "min_price": 87500000,
+      "max_price": 92000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "신비"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 7991646,
+      "min_price": 7003423,
+      "max_price": 9000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 483074,
+      "min_price": 450000,
+      "max_price": 492476,
+      "item_option": {
+        "suffix_enchant_preset_1": "용맹"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2542908,
+      "min_price": 2200000,
+      "max_price": 3000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "소망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 753029,
+      "min_price": 89000,
+      "max_price": 1400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "진실"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1975387,
+      "min_price": 1500000,
+      "max_price": 2237020,
+      "item_option": {
+        "prefix_enchant_preset_1": "뜻깊은"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10806,
+      "min_price": 7348,
+      "max_price": 20000,
+      "item_option": {
+        "prefix_enchant_preset_1": "균형 잡힌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 579165,
+      "min_price": 300000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 458320,
+      "min_price": 298000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 445274,
+      "min_price": 390000,
+      "max_price": 520000,
+      "item_option": {
+        "prefix_enchant_preset_1": "냉철의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 33796,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 950351,
+      "min_price": 700000,
+      "max_price": 1266703,
+      "item_option": {
+        "prefix_enchant_preset_1": "죽은자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T13:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1023882,
+      "min_price": 944444,
+      "max_price": 1130000,
+      "item_option": {
+        "prefix_enchant_preset_1": "비통한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 38150614,
+      "min_price": 32000000,
+      "max_price": 44200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16657351,
+      "min_price": 16250000,
+      "max_price": 17479999,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8231076,
+      "min_price": 7500000,
+      "max_price": 8700000,
+      "item_option": {
+        "prefix_enchant_preset_1": "굳어버린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 14530576,
+      "min_price": 13000000,
+      "max_price": 16139436,
+      "item_option": {
+        "prefix_enchant_preset_1": "파괴하는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16055161,
+      "min_price": 14000000,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 681671,
+      "min_price": 472341,
+      "max_price": 891375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16457077,
+      "min_price": 15707322,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30515794,
+      "min_price": 29900000,
+      "max_price": 31500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 37629,
+      "min_price": 1,
+      "max_price": 129619,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 19926338,
+      "min_price": 16800000,
+      "max_price": 25000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6666777,
+      "min_price": 6200000,
+      "max_price": 7200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잦아든"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 3993139,
+      "min_price": 3357000,
+      "max_price": 4200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20645866,
+      "min_price": 19600000,
+      "max_price": 21999996,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 32043,
+      "min_price": 1234,
+      "max_price": 55199,
+      "item_option": {
+        "prefix_enchant_preset_1": "결연한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 9766,
+      "min_price": 1234,
+      "max_price": 50000,
+      "item_option": {
+        "suffix_enchant_preset_1": "폭렬"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 7980290,
+      "min_price": 7003423,
+      "max_price": 9000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1526671,
+      "min_price": 1200000,
+      "max_price": 2523506,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25513,
+      "min_price": 777,
+      "max_price": 59298,
+      "item_option": {
+        "prefix_enchant_preset_1": "차분한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 481727,
+      "min_price": 450000,
+      "max_price": 490000,
+      "item_option": {
+        "suffix_enchant_preset_1": "용맹"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2540606,
+      "min_price": 2200000,
+      "max_price": 3000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "소망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2944,
+      "min_price": 2222,
+      "max_price": 3098,
+      "item_option": {
+        "suffix_enchant_preset_1": "활력"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 604045,
+      "min_price": 300000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 478774,
+      "min_price": 298000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 481831,
+      "min_price": 239000,
+      "max_price": 800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "봉인된"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 200103,
+      "min_price": 100000,
+      "max_price": 242874,
+      "item_option": {
+        "suffix_enchant_preset_1": "포획"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 35564,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1012493,
+      "min_price": 944444,
+      "max_price": 1130000,
+      "item_option": {
+        "prefix_enchant_preset_1": "비통한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T14:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 323199,
+      "min_price": 1500,
+      "max_price": 500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36511444,
+      "min_price": 36000000,
+      "max_price": 37023642,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25501776,
+      "min_price": 23212635,
+      "max_price": 28500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "꿰뚫는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16567712,
+      "min_price": 16250000,
+      "max_price": 16800000,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16192172,
+      "min_price": 15110337,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 675183,
+      "min_price": 472341,
+      "max_price": 891375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16472133,
+      "min_price": 15707322,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30460105,
+      "min_price": 29900000,
+      "max_price": 31500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 37213,
+      "min_price": 1,
+      "max_price": 129619,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20014269,
+      "min_price": 16800000,
+      "max_price": 25000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6635026,
+      "min_price": 6000000,
+      "max_price": 7200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잦아든"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 3982709,
+      "min_price": 3357000,
+      "max_price": 4200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20710305,
+      "min_price": 19600000,
+      "max_price": 21999996,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 31212,
+      "min_price": 1234,
+      "max_price": 55199,
+      "item_option": {
+        "prefix_enchant_preset_1": "결연한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1518378,
+      "min_price": 950000,
+      "max_price": 2523506,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11716975,
+      "min_price": 10400000,
+      "max_price": 17500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 9132,
+      "min_price": 1,
+      "max_price": 14890,
+      "item_option": {
+        "suffix_enchant_preset_1": "질주"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2090997,
+      "min_price": 1500000,
+      "max_price": 2999999,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 89927291,
+      "min_price": 87500000,
+      "max_price": 92000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "신비"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 7987261,
+      "min_price": 7003423,
+      "max_price": 9000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 19621,
+      "min_price": 777,
+      "max_price": 50486,
+      "item_option": {
+        "prefix_enchant_preset_1": "차분한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 346144,
+      "min_price": 250000,
+      "max_price": 449938,
+      "item_option": {
+        "prefix_enchant_preset_1": "고결한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 477031,
+      "min_price": 449000,
+      "max_price": 490000,
+      "item_option": {
+        "suffix_enchant_preset_1": "용맹"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 162248,
+      "min_price": 105394,
+      "max_price": 197335,
+      "item_option": {
+        "prefix_enchant_preset_1": "혼돈의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2539510,
+      "min_price": 2200000,
+      "max_price": 3000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "소망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 706691,
+      "min_price": 89000,
+      "max_price": 1400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "진실"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 9504,
+      "min_price": 6666,
+      "max_price": 20000,
+      "item_option": {
+        "prefix_enchant_preset_1": "균형 잡힌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 615184,
+      "min_price": 365379,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 86180,
+      "min_price": 50000,
+      "max_price": 120000,
+      "item_option": {
+        "prefix_enchant_preset_1": "냉정의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4545,
+      "min_price": 2400,
+      "max_price": 9999,
+      "item_option": {
+        "suffix_enchant_preset_1": "열의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 482855,
+      "min_price": 298000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 919817,
+      "min_price": 600000,
+      "max_price": 1981284,
+      "item_option": {
+        "suffix_enchant_preset_1": "영혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 450802,
+      "min_price": 400000,
+      "max_price": 520000,
+      "item_option": {
+        "prefix_enchant_preset_1": "냉철의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 500986,
+      "min_price": 239000,
+      "max_price": 800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "봉인된"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 201359,
+      "min_price": 100000,
+      "max_price": 242874,
+      "item_option": {
+        "suffix_enchant_preset_1": "포획"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 37585,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1058515,
+      "min_price": 700000,
+      "max_price": 1888888,
+      "item_option": {
+        "prefix_enchant_preset_1": "죽은자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1013326,
+      "min_price": 944444,
+      "max_price": 1130000,
+      "item_option": {
+        "prefix_enchant_preset_1": "비통한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T15:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 300522,
+      "min_price": 1500,
+      "max_price": 500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 37963453,
+      "min_price": 32000000,
+      "max_price": 44200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16556372,
+      "min_price": 15670332,
+      "max_price": 17300000,
+      "item_option": {
+        "suffix_enchant_preset_1": "찬미"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16673766,
+      "min_price": 16250000,
+      "max_price": 17400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8153656,
+      "min_price": 7490000,
+      "max_price": 8700000,
+      "item_option": {
+        "prefix_enchant_preset_1": "굳어버린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 14436887,
+      "min_price": 13000000,
+      "max_price": 16139436,
+      "item_option": {
+        "prefix_enchant_preset_1": "파괴하는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16189027,
+      "min_price": 15110337,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16487297,
+      "min_price": 15707322,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30478602,
+      "min_price": 29900000,
+      "max_price": 31500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 642442,
+      "min_price": 470000,
+      "max_price": 888375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30693,
+      "min_price": 1,
+      "max_price": 129619,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20239779,
+      "min_price": 17400000,
+      "max_price": 25000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6534397,
+      "min_price": 5500000,
+      "max_price": 7200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잦아든"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20793118,
+      "min_price": 19600000,
+      "max_price": 23000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30812,
+      "min_price": 1234,
+      "max_price": 55199,
+      "item_option": {
+        "prefix_enchant_preset_1": "결연한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1463372,
+      "min_price": 950000,
+      "max_price": 1844443,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11913863,
+      "min_price": 10400000,
+      "max_price": 17500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 5742,
+      "min_price": 1234,
+      "max_price": 12254,
+      "item_option": {
+        "suffix_enchant_preset_1": "폭렬"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2174416,
+      "min_price": 1500000,
+      "max_price": 2999999,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8050571,
+      "min_price": 7003423,
+      "max_price": 9080290,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 154977,
+      "min_price": 75000,
+      "max_price": 197335,
+      "item_option": {
+        "prefix_enchant_preset_1": "혼돈의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2559482,
+      "min_price": 2255751,
+      "max_price": 3000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "소망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1945126,
+      "min_price": 1500000,
+      "max_price": 2237020,
+      "item_option": {
+        "prefix_enchant_preset_1": "뜻깊은"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 686946,
+      "min_price": 89000,
+      "max_price": 1400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "진실"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 648731,
+      "min_price": 379200,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 5250,
+      "min_price": 2400,
+      "max_price": 9999,
+      "item_option": {
+        "suffix_enchant_preset_1": "열의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 483077,
+      "min_price": 298000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 448001,
+      "min_price": 400000,
+      "max_price": 520000,
+      "item_option": {
+        "prefix_enchant_preset_1": "냉철의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 516286,
+      "min_price": 239000,
+      "max_price": 960000,
+      "item_option": {
+        "prefix_enchant_preset_1": "봉인된"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 40930,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1062052,
+      "min_price": 700000,
+      "max_price": 1888888,
+      "item_option": {
+        "prefix_enchant_preset_1": "죽은자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T16:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 997849,
+      "min_price": 900000,
+      "max_price": 1093000,
+      "item_option": {
+        "prefix_enchant_preset_1": "비통한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 37989753,
+      "min_price": 32000000,
+      "max_price": 44200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25567232,
+      "min_price": 23212635,
+      "max_price": 28500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "꿰뚫는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16624529,
+      "min_price": 15670333,
+      "max_price": 17300000,
+      "item_option": {
+        "suffix_enchant_preset_1": "찬미"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16684604,
+      "min_price": 16250000,
+      "max_price": 17400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 14358813,
+      "min_price": 13000000,
+      "max_price": 16139436,
+      "item_option": {
+        "prefix_enchant_preset_1": "파괴하는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16547155,
+      "min_price": 15707322,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30492605,
+      "min_price": 29900000,
+      "max_price": 31500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30243,
+      "min_price": 1,
+      "max_price": 129619,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20441856,
+      "min_price": 17500000,
+      "max_price": 25000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6486174,
+      "min_price": 5500000,
+      "max_price": 7200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잦아든"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20794426,
+      "min_price": 19600000,
+      "max_price": 23000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10529907,
+      "min_price": 9500000,
+      "max_price": 11800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "우아한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 24578,
+      "min_price": 1234,
+      "max_price": 40624,
+      "item_option": {
+        "prefix_enchant_preset_1": "결연한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 90196990,
+      "min_price": 88399999,
+      "max_price": 92000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "신비"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8060965,
+      "min_price": 7003423,
+      "max_price": 9080290,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 21668,
+      "min_price": 777,
+      "max_price": 50486,
+      "item_option": {
+        "prefix_enchant_preset_1": "차분한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 630294,
+      "min_price": 89000,
+      "max_price": 1400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "진실"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 659731,
+      "min_price": 379200,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 86809,
+      "min_price": 65000,
+      "max_price": 110000,
+      "item_option": {
+        "prefix_enchant_preset_1": "흐느끼는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 484355,
+      "min_price": 298000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 902325,
+      "min_price": 500000,
+      "max_price": 1981284,
+      "item_option": {
+        "suffix_enchant_preset_1": "영혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 200695,
+      "min_price": 100000,
+      "max_price": 242874,
+      "item_option": {
+        "suffix_enchant_preset_1": "포획"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 41551,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T17:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 979993,
+      "min_price": 890000,
+      "max_price": 1093000,
+      "item_option": {
+        "prefix_enchant_preset_1": "비통한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25714507,
+      "min_price": 23212635,
+      "max_price": 28500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "꿰뚫는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8182518,
+      "min_price": 7490000,
+      "max_price": 8700000,
+      "item_option": {
+        "prefix_enchant_preset_1": "굳어버린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 625120,
+      "min_price": 470000,
+      "max_price": 888375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30510637,
+      "min_price": 29900000,
+      "max_price": 31500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 28593,
+      "min_price": 1,
+      "max_price": 129619,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20861723,
+      "min_price": 17900000,
+      "max_price": 25000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "사념"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 3980762,
+      "min_price": 3357000,
+      "max_price": 4200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20801155,
+      "min_price": 19600000,
+      "max_price": 23000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1460491,
+      "min_price": 950000,
+      "max_price": 1844443,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2179216,
+      "min_price": 1500000,
+      "max_price": 2999999,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 153151,
+      "min_price": 75000,
+      "max_price": 197335,
+      "item_option": {
+        "prefix_enchant_preset_1": "혼돈의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 9683,
+      "min_price": 6666,
+      "max_price": 20000,
+      "item_option": {
+        "prefix_enchant_preset_1": "균형 잡힌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 663509,
+      "min_price": 379200,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 486450,
+      "min_price": 298000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 528664,
+      "min_price": 239000,
+      "max_price": 960000,
+      "item_option": {
+        "prefix_enchant_preset_1": "봉인된"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 201646,
+      "min_price": 100000,
+      "max_price": 242874,
+      "item_option": {
+        "suffix_enchant_preset_1": "포획"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 41102,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T18:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4600277,
+      "min_price": 4250000,
+      "max_price": 4890000,
+      "item_option": {
+        "prefix_enchant_preset_1": "예언의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 37640596,
+      "min_price": 32000000,
+      "max_price": 40500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16704046,
+      "min_price": 15670333,
+      "max_price": 17300000,
+      "item_option": {
+        "suffix_enchant_preset_1": "찬미"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36494803,
+      "min_price": 36000000,
+      "max_price": 37023642,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16287090,
+      "min_price": 15199734,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6484882,
+      "min_price": 5500000,
+      "max_price": 7200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잦아든"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 3978815,
+      "min_price": 3357000,
+      "max_price": 4200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "단호한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20817266,
+      "min_price": 19600000,
+      "max_price": 23000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10285086,
+      "min_price": 9200000,
+      "max_price": 11800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "우아한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1459237,
+      "min_price": 950000,
+      "max_price": 1844443,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 9858,
+      "min_price": 1,
+      "max_price": 16453,
+      "item_option": {
+        "suffix_enchant_preset_1": "질주"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4523,
+      "min_price": 66,
+      "max_price": 12200,
+      "item_option": {
+        "suffix_enchant_preset_1": "폭렬"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2183823,
+      "min_price": 1500000,
+      "max_price": 2999999,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8083045,
+      "min_price": 7003423,
+      "max_price": 9080290,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1063888,
+      "min_price": 700000,
+      "max_price": 1900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잔혹한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 27297,
+      "min_price": 777,
+      "max_price": 60000,
+      "item_option": {
+        "prefix_enchant_preset_1": "차분한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 665970,
+      "min_price": 379200,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 41982,
+      "min_price": 5000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T19:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 274504,
+      "min_price": 1500,
+      "max_price": 400326,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T20:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36469620,
+      "min_price": 36000000,
+      "max_price": 37000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T20:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30530738,
+      "min_price": 29900000,
+      "max_price": 31500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-10T20:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 18208,
+      "min_price": 1,
+      "max_price": 58800,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T20:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 12106031,
+      "min_price": 10400000,
+      "max_price": 17500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T20:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11602571,
+      "min_price": 10000000,
+      "max_price": 13500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "승자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T20:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 4183,
+      "min_price": 66,
+      "max_price": 12200,
+      "item_option": {
+        "suffix_enchant_preset_1": "폭렬"
+      }
+    },
+    {
+      "date_update": "2025-05-10T20:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8100830,
+      "min_price": 7003423,
+      "max_price": 9080290,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T20:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 675754,
+      "min_price": 379200,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T20:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 490788,
+      "min_price": 298000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T20:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 271358,
+      "min_price": 1500,
+      "max_price": 400326,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T21:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36380092,
+      "min_price": 34500000,
+      "max_price": 37000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T21:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20827572,
+      "min_price": 19600000,
+      "max_price": 23000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-10T21:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 24891,
+      "min_price": 1234,
+      "max_price": 40624,
+      "item_option": {
+        "prefix_enchant_preset_1": "결연한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T21:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8118908,
+      "min_price": 7003423,
+      "max_price": 9080290,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T21:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 495052,
+      "min_price": 298000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T21:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 265281,
+      "min_price": 1500,
+      "max_price": 400326,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-10T22:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16329833,
+      "min_price": 15199734,
+      "max_price": 17035528,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-10T22:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16534127,
+      "min_price": 15707322,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T22:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1947620,
+      "min_price": 1500000,
+      "max_price": 2237020,
+      "item_option": {
+        "prefix_enchant_preset_1": "뜻깊은"
+      }
+    },
+    {
+      "date_update": "2025-05-10T22:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 687582,
+      "min_price": 379200,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T22:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 41839,
+      "min_price": 10000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36320088,
+      "min_price": 34500000,
+      "max_price": 37000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 623987,
+      "min_price": 470000,
+      "max_price": 888375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16576893,
+      "min_price": 15707322,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11779042,
+      "min_price": 10000000,
+      "max_price": 14602571,
+      "item_option": {
+        "prefix_enchant_preset_1": "승자의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 31591,
+      "min_price": 777,
+      "max_price": 70486,
+      "item_option": {
+        "prefix_enchant_preset_1": "차분한"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 106721,
+      "min_price": 75000,
+      "max_price": 150000,
+      "item_option": {
+        "prefix_enchant_preset_1": "무한의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 698229,
+      "min_price": 379263,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 85144,
+      "min_price": 50000,
+      "max_price": 123000,
+      "item_option": {
+        "prefix_enchant_preset_1": "냉정의"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 87526,
+      "min_price": 65000,
+      "max_price": 110000,
+      "item_option": {
+        "prefix_enchant_preset_1": "흐느끼는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1097941,
+      "min_price": 900000,
+      "max_price": 1300000,
+      "item_option": {
+        "suffix_enchant_preset_1": "결계"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 881679,
+      "min_price": 500000,
+      "max_price": 1981284,
+      "item_option": {
+        "suffix_enchant_preset_1": "영혼"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 210682,
+      "min_price": 100000,
+      "max_price": 280000,
+      "item_option": {
+        "suffix_enchant_preset_1": "포획"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 41299,
+      "min_price": 10000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-10T23:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 269138,
+      "min_price": 1500,
+      "max_price": 400326,
+      "item_option": {
+        "suffix_enchant_preset_1": "돌진"
+      }
+    },
+    {
+      "date_update": "2025-05-11T00:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 37727591,
+      "min_price": 32000000,
+      "max_price": 40500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-11T00:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 30536654,
+      "min_price": 29900000,
+      "max_price": 31500000,
+      "item_option": {
+        "suffix_enchant_preset_1": "시련"
+      }
+    },
+    {
+      "date_update": "2025-05-11T00:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20838551,
+      "min_price": 19600000,
+      "max_price": 23000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-11T00:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8139448,
+      "min_price": 7003423,
+      "max_price": 9080290,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-11T00:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1967289,
+      "min_price": 1500000,
+      "max_price": 2400000,
+      "item_option": {
+        "prefix_enchant_preset_1": "뜻깊은"
+      }
+    },
+    {
+      "date_update": "2025-05-11T00:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 702726,
+      "min_price": 390000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-11T00:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 494146,
+      "min_price": 298000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-11T00:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 443001,
+      "min_price": 388001,
+      "max_price": 520000,
+      "item_option": {
+        "prefix_enchant_preset_1": "냉철의"
+      }
+    },
+    {
+      "date_update": "2025-05-11T00:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 513762,
+      "min_price": 239000,
+      "max_price": 960000,
+      "item_option": {
+        "prefix_enchant_preset_1": "봉인된"
+      }
+    },
+    {
+      "date_update": "2025-05-11T00:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 41779,
+      "min_price": 10000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-11T00:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1063899,
+      "min_price": 700000,
+      "max_price": 1888888,
+      "item_option": {
+        "prefix_enchant_preset_1": "죽은자의"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25541062,
+      "min_price": 23212635,
+      "max_price": 27980000,
+      "item_option": {
+        "prefix_enchant_preset_1": "꿰뚫는"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16317705,
+      "min_price": 15199734,
+      "max_price": 16890000,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16662214,
+      "min_price": 15707322,
+      "max_price": 17900000,
+      "item_option": {
+        "prefix_enchant_preset_1": "대적자의"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20840365,
+      "min_price": 19600000,
+      "max_price": 23000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11849580,
+      "min_price": 10000000,
+      "max_price": 14602571,
+      "item_option": {
+        "prefix_enchant_preset_1": "승자의"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2193790,
+      "min_price": 1500000,
+      "max_price": 2999999,
+      "item_option": {
+        "prefix_enchant_preset_1": "잊혀진"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 90210887,
+      "min_price": 88399999,
+      "max_price": 92000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "신비"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8242516,
+      "min_price": 7003423,
+      "max_price": 9080290,
+      "item_option": {
+        "suffix_enchant_preset_1": "투혼"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 2540427,
+      "min_price": 2255751,
+      "max_price": 3000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "소망"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1911098,
+      "min_price": 1500000,
+      "max_price": 2400000,
+      "item_option": {
+        "prefix_enchant_preset_1": "뜻깊은"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 699862,
+      "min_price": 390000,
+      "max_price": 860000,
+      "item_option": {
+        "suffix_enchant_preset_1": "열망"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 93823,
+      "min_price": 65000,
+      "max_price": 150000,
+      "item_option": {
+        "prefix_enchant_preset_1": "흐느끼는"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 492224,
+      "min_price": 298000,
+      "max_price": 750000,
+      "item_option": {
+        "prefix_enchant_preset_1": "신속한"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 431368,
+      "min_price": 388001,
+      "max_price": 452340,
+      "item_option": {
+        "prefix_enchant_preset_1": "냉철의"
+      }
+    },
+    {
+      "date_update": "2025-05-11T01:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 42223,
+      "min_price": 10000,
+      "max_price": 198800,
+      "item_option": {
+        "prefix_enchant_preset_1": "의미있는"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25824418,
+      "min_price": 23999999,
+      "max_price": 27988888,
+      "item_option": {
+        "prefix_enchant_preset_1": "꿰뚫는"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 36254938,
+      "min_price": 34500000,
+      "max_price": 37000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "물결"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 37624051,
+      "min_price": 32000000,
+      "max_price": 40500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "삼키는"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16683354,
+      "min_price": 16250000,
+      "max_price": 17400000,
+      "item_option": {
+        "suffix_enchant_preset_1": "일격"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 8195217,
+      "min_price": 7490000,
+      "max_price": 8700000,
+      "item_option": {
+        "prefix_enchant_preset_1": "굳어버린"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 16362420,
+      "min_price": 15199734,
+      "max_price": 16899000,
+      "item_option": {
+        "prefix_enchant_preset_1": "뒤틀린"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 621018,
+      "min_price": 470000,
+      "max_price": 888375,
+      "item_option": {
+        "prefix_enchant_preset_1": "신중한"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 18670,
+      "min_price": 1,
+      "max_price": 58800,
+      "item_option": {
+        "prefix_enchant_preset_1": "시공의"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 6514222,
+      "min_price": 5500000,
+      "max_price": 7200000,
+      "item_option": {
+        "prefix_enchant_preset_1": "잦아든"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 20847063,
+      "min_price": 19600000,
+      "max_price": 23000000,
+      "item_option": {
+        "suffix_enchant_preset_1": "고독"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 25172,
+      "min_price": 1234,
+      "max_price": 40624,
+      "item_option": {
+        "prefix_enchant_preset_1": "결연한"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10298682,
+      "min_price": 9200000,
+      "max_price": 11800000,
+      "item_option": {
+        "prefix_enchant_preset_1": "우아한"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 1441858,
+      "min_price": 950000,
+      "max_price": 1844443,
+      "item_option": {
+        "suffix_enchant_preset_1": "격돌"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 12447770,
+      "min_price": 10400000,
+      "max_price": 17500000,
+      "item_option": {
+        "prefix_enchant_preset_1": "고대의"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 11888043,
+      "min_price": 10000000,
+      "max_price": 14602571,
+      "item_option": {
+        "prefix_enchant_preset_1": "승자의"
+      }
+    },
+    {
+      "date_update": "2025-05-11T02:00:00Z",
+      "item_name": "인챈트 스크롤",
+      "average_price": 10140,
+      "min_price": 18,
+      "max_price": 16453,
+      "item_option": {
+        "suffix_enchant_preset_1": "질주"
+      }
+    }
+  ],
+  "next_cursor": "1964f45eb5f309b223c5383e67352595"
+}
